@@ -1,16 +1,29 @@
-## Hi there 👋
+#Name
+Muneeza Imran
 
-<!--
-**muneeza-imran/muneeza-imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+My name is Muneeza Imran. I am currently pursing a Bachelors degree in Software Engineering. I have a very curious nature and am interested in learning new skills, gaining experiences and exposures.
 
-Here are some ideas to get you started:
+##Skills and Technologies
+|Category |Technologies       |
+|---------|-------------------|
+|Languages|Python,C#,HTML,CSS |
+|Tools    |GitHub,Git,VS Code |
+| Development | Object-Oriented Programming, Data Structures |
+| Database | SQL Server, MySQL |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Featured Projects
+##Skin-care Recommendation System
+A web-based app that has the required features and useful for people who are unaware of their skin types and which product to use.This system recommends them products according to their requirements.
+##Dracoryx Game
+A two player winform based game designed to be interactive for the users.Dracoryx is a dragon RPG game where players collect, battle, evolve, breed, and trade dragons while completing quests, managing resources, and responding to changing world events.
+
+##Education 
+Degree: Software Engineering
+University: University of Engineering and Technology, Lahore
+Year:2025
+
+##Contact
+-Email:muneezaimran57@gmail.com
+-LinkedIn:Muneeza Imran
+-GitHub:https://github.com/muneezaimran57-svg/Muneeza-17
